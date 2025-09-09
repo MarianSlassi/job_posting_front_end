@@ -2,3 +2,4 @@
 .venv/
 *.lock
 .python-version
+*.toml
